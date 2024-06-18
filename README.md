@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**wandersonzonatto/wandersonzonatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, Welcome to my Github! 👋🏻
 
-Here are some ideas to get you started:
+Welcome to my data science projects repository on GitHub! You'll find a range of projects, from data analysis to advanced machine learning, all with detailed documentation and insights. You can also find me on these social media channels!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/wandersonzonatto/)
+
+### Skills:
+
+<div style="display: inline_block">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</div>
